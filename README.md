@@ -11,5 +11,7 @@ Tidaklah seorang tertimpa kelelahan, sakit, kesedihan, kesusahan, gangguan, atau
 ## 🤡 Authors
 - [@rafiiee](https://github.com/muhammadrafifatihulihsan)
 - [@rafif](https://github.com/cawfe2526)
-
+- [@Arya](https://github.com/#)
+- [@Fitri](https://github.com/#)
+- [@Zulfa](https://github.com/#)
 
