@@ -1,5 +1,5 @@
 
-## 📟 Minangverse
+# 📟 Minangverse
 Minangverse platform literasi budaya interaktif sebagai media edukasi dan ekspresi untuk memajukan budaya Indonesia yang mengangkat budaya Minangkabau melalui teknologi web. Dengan fitur alat musik virtual yang dapat dimainkan secara realtime, permainan kartu kuis gamified, pepatah, kuis budaya, kamus nasihat hingga galeri interaktif dengan UI bernuansa Minangkabau dengan ciri khas songket. Minangverse menghadirkan pembelajaran budaya yang imersif, edukatif dan menyenangkan bagi generasi digital
 
 # 🌐 Dokumentasi Proyek
